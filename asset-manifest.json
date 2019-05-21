@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-demo2/static/css/main.5eba7624.chunk.css",
+    "main.js": "/react-demo2/static/js/main.9b10b1d1.chunk.js",
+    "main.js.map": "/react-demo2/static/js/main.9b10b1d1.chunk.js.map",
+    "runtime~main.js": "/react-demo2/static/js/runtime~main.a731eeca.js",
+    "runtime~main.js.map": "/react-demo2/static/js/runtime~main.a731eeca.js.map",
+    "static/js/2.8c9c7ebf.chunk.js": "/react-demo2/static/js/2.8c9c7ebf.chunk.js",
+    "static/js/2.8c9c7ebf.chunk.js.map": "/react-demo2/static/js/2.8c9c7ebf.chunk.js.map",
+    "index.html": "/react-demo2/index.html",
+    "precache-manifest.9c7c8ca0c5fb8454c4b6c4f2af8e03b8.js": "/react-demo2/precache-manifest.9c7c8ca0c5fb8454c4b6c4f2af8e03b8.js",
+    "service-worker.js": "/react-demo2/service-worker.js",
+    "static/css/main.5eba7624.chunk.css.map": "/react-demo2/static/css/main.5eba7624.chunk.css.map",
+    "static/media/App.css": "/react-demo2/static/media/arrow-drop-down.78c6f53b.svg",
+    "static/media/stacked-books.jpg": "/react-demo2/static/media/stacked-books.51adb8eb.jpg"
+  }
+}
